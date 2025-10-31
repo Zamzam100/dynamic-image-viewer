@@ -25,7 +25,7 @@ A modern, responsive image gallery with interactive features built using HTML, C
 
 1. **Clone the repository**
    
-   git clone https://github.com/yourusername/interactive-image-gallery.git
+   git clone https://github.com/Zamzam100/interactive-image-gallery.git
 Navigate to the project directory
 
 cd interactive-image-gallery
